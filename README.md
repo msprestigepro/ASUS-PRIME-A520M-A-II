@@ -38,8 +38,8 @@
 - **Secure Boot**  
 - **Serial/COM/Parallel Ports**  
 - **IOMMU (Input-Output Memory Management Unit)**  
-- **TPM/fTPM MacOS Don't need that
-- **USB Legacy - like khronokernel said everything legacy feature in bios is bunch of crap, just disable any legacy settings you found in the bios and enjoy pure UEFI mode.
+- **TPM/fTPM MacOS Don't need that**
+- **USB Legacy - like khronokernel said everything legacy feature in bios is bunch of crap, just disable any legacy settings you found in the bios and enjoy pure UEFI mode.**
 ---
 
 ### **Issues Encountered During Installation:**
@@ -59,5 +59,5 @@
 ### **Additional Notes:**
 - If you have different hardware, consult appropriate guides, forums, or community discussions for support.  
 - To modify USB ports (activate more or change configuration), use the **USB Mapping Tool** from the OpenCore guide and rebuild accordingly.  
-
+- Always update bios/uefi to the latest version(not beta ones)
 
