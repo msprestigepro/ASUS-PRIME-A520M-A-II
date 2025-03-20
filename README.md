@@ -63,4 +63,5 @@
 - Change CPU patch core according to your cpu.
 - i dont have a wireless lan card so i dont know this would cause an issue if you have one.
 - Updated regularly - currently on opencore 1.0.4
+- Dont forget to regenerate your own SMBIOS and custom AppleROM in platform info
 - To be updated in the future as long as i maintain it, or sell my pc(will be archived)
