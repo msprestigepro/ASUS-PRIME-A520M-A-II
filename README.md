@@ -60,4 +60,5 @@
 - If you have different hardware, consult appropriate guides, forums, or community discussions for support.  
 - To modify USB ports (activate more or change configuration), use the **USB Mapping Tool** from the OpenCore guide and rebuild accordingly.  
 - Always update bios/uefi to the latest version(not beta ones)
-
+- Change CPU patch core according to your cpu.
+- to be updated if i missed something.
