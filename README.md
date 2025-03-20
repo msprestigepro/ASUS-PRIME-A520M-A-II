@@ -61,4 +61,6 @@
 - To modify USB ports (activate more or change configuration), use the **USB Mapping Tool** from the OpenCore guide and rebuild accordingly.  
 - Always update bios/uefi to the latest version(not beta ones)
 - Change CPU patch core according to your cpu.
-- to be updated if i missed something.
+- i dont have a wireless lan card so i dont know this would cause an issue if you have one.
+- Updated regularly - currently on opencore 1.0.4
+- To be updated in the future as long as i maintain it, or sell my pc(will be archived)
