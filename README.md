@@ -3,7 +3,7 @@
 ### **PC Specifications:**
 - **Motherboard:** ASUS Prime A520M-A II  
 - **Processor:** AMD Ryzen 5 5600 (6-Core, 3.5GHz)  
-- **GPU:** Gigabyte Radeon RX Vega 56 (8GB)  
+- **GPU:** Gigabyte Radeon RX Vega 56 (8GB) (My dying gpu i forced to hold onto its life support Symptons : artifacts, crash, froze, HBM Memory start to fail)  
 - **RAM:** 32GB DDR4 3200MHz  
 - **Storage:** 256GB KingSpec NVMe PCIe Gen3x4  
 
