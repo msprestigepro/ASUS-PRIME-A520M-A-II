@@ -38,7 +38,8 @@
 - **Secure Boot**  
 - **Serial/COM/Parallel Ports**  
 - **IOMMU (Input-Output Memory Management Unit)**  
-
+- **TPM/fTPM MacOS Don't need that
+- **USB Legacy - like khronokernel said everything legacy feature in bios is bunch of crap, just disable any legacy settings you found in the bios and enjoy pure UEFI mode.
 ---
 
 ### **Issues Encountered During Installation:**
