@@ -1,4 +1,4 @@
-**ASUS PRIME A520M-A II OPENCORE EFI
+**ASUS PRIME A520M-A II OPENCORE EFI**
 ### **PC Specifications:**
 - **Motherboard:** ASUS Prime A520M-A II  
 - **Processor:** AMD Ryzen 5 5600 (6-Core, 3.5GHz)  
