@@ -59,5 +59,4 @@
 - If you have different hardware, consult appropriate guides, forums, or community discussions for support.  
 - To modify USB ports (activate more or change configuration), use the **USB Mapping Tool** from the OpenCore guide and rebuild accordingly.  
 
-This guide is intended to help beginners set up macOS on the ASUS Prime A520M-A II motherboard. If you encounter issues, refer to community resources for troubleshooting assistance.
 
