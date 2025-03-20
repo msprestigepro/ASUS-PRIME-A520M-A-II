@@ -13,7 +13,7 @@
 - **Network Interface Card (NIC)**  
 - **Power Management**  
 - **HDMI Audio** (Works but no volume slider use third party apps instead)  
-
+- **ALC897 All port works**
 ### **Untested Features:**
 - Messages (iMessage)  
 - FaceTime  
