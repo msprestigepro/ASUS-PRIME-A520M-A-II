@@ -1,5 +1,4 @@
-**ASUS PRIME A520M-A II Hackintosh Guide**
-
+**ASUS PRIME A520M-A II OPENCORE EFI
 ### **PC Specifications:**
 - **Motherboard:** ASUS Prime A520M-A II  
 - **Processor:** AMD Ryzen 5 5600 (6-Core, 3.5GHz)  
@@ -64,4 +63,5 @@
 - i dont have a wireless lan card so i dont know this would cause an issue if you have one.
 - Updated regularly - currently on opencore 1.0.4
 - Dont forget to regenerate your own SMBIOS and custom AppleROM in platform info
+- Credit to all opensource community and project who made this possible
 - To be updated in the future as long as i maintain it, or sell my pc(will be archived)
