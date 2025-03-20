@@ -13,7 +13,7 @@
 - **Sleep/Wake Functionality**  
 - **Network Interface Card (NIC)**  
 - **Power Management**  
-- **HDMI Audio** (Still being tested)  
+- **HDMI Audio** (Works but no volume slider use third party apps instead)  
 
 ### **Untested Features:**
 - Messages (iMessage)  
