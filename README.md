@@ -64,4 +64,5 @@
 - Updated regularly - currently on opencore 1.0.4
 - Dont forget to regenerate your own SMBIOS and custom AppleROM in platform info
 - Credit to all opensource community and project who made this possible
+- Idk how to upload more than 100 files, or not fail to ruin opencore folder structure in this repo.
 - To be updated in the future as long as i maintain it, or sell my pc(will be archived)
