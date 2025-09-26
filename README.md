@@ -1,4 +1,4 @@
-**Cara menambah kapasitas vram colorful battleaxe**
+**CARA MENAMBAH KAPASITAS IGPU/APU VRAM DI COLORFUL BATTLE-AX A520M-K M.2 V14**
 ### **Disclaimer - mengutak-atik bios dengan cara ini terutama untuk mengubah setting yang di hidden bisa membuat pc bermasalah seperti tidak bisa booting, no display, hang/freeze, blue screen dan sebagainya, jadi do with your own risk**
 **catatan : mencopot baterai cmos atau mereset bios ke default akan membuat pengaturan custom ini menghilang jadi jika terjadi maka harus di setting ulang.
 ### **alat yang di butuhkan**
