@@ -1,3 +1,4 @@
+---
 **CARA MENAMBAH KAPASITAS IGPU/APU VRAM DI COLORFUL BATTLE-AX A520M-K M.2 V14**
 ### **Disclaimer - mengutak-atik bios dengan cara ini terutama untuk mengubah setting yang di hidden bisa membuat pc bermasalah seperti tidak bisa booting, no display, hang/freeze, blue screen dan sebagainya, jadi do with your own risk**
 **catatan : mencopot baterai cmos atau mereset bios ke default akan membuat pengaturan custom ini menghilang jadi jika terjadi maka harus di setting ulang.**
@@ -5,7 +6,6 @@
 - **Rufus - https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10p.exe**  
 - **Flashdisk minimal 4gb** 
 - **file efi - https://github.com/user-attachments/files/22551201/EFI.zip**
-
 ### **langkah-langkah**
 - **pertama format flashdisk sesuai di gambar - pastikan tidak ada data di flashdisknya karena akan di format**  
 - **<img width="483" height="551" alt="Screenshot_1" src="https://github.com/user-attachments/assets/2eda9be3-7e9c-4eff-af61-eefb83a505c9" />**  
@@ -25,7 +25,6 @@
 - ![IMG20250926092359](https://github.com/user-attachments/assets/d9885954-355a-47f5-943d-5672ae3da5b0)
 - **jika sudah selesai ketik reboot**
 - ![IMG20250926092439](https://github.com/user-attachments/assets/8ca212ba-094e-4ee8-8bd2-20ee93f8c0b9)
-
-
+- **TERAKHIR CEK JIKA KAPASITAS VRAM SUDAH BERTAMBAH DI GPU-Z ATAU TASK MANAGER**
 ---
 
