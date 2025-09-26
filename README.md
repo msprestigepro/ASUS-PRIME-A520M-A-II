@@ -1,5 +1,6 @@
 **Cara menambah kapasitas vram colorful battleaxe**
 ### **Disclaimer - mengutak-atik bios dengan cara ini terutama untuk mengubah setting yang di hidden bisa membuat pc bermasalah seperti tidak bisa booting, no display, hang/freeze, blue screen dan sebagainya, jadi do with your own risk**
+**catatan : mencopot baterai cmos atau mereset bios ke default akan membuat pengaturan custom ini menghilang jadi jika terjadi maka harus di setting ulang.
 ### **alat yang di butuhkan**
 - **Rufus - https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10p.exe**  
 - **Flashdisk minimal 4gb** 
