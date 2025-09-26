@@ -12,9 +12,10 @@
 - **<img width="1138" height="650" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f3e4e5ff-9470-43ec-aace-a49c5126c78d" />**  
 - **kemudian restart pc dan boot dari flashdisk colorful biasanya menggunakan F11 sebagai boot menu**  
 - **![IMG20250926092235](https://github.com/user-attachments/assets/811e2b09-1902-48ec-b940-ab22c9dad29f)**
-- **ketika sudah muncul seperti ini pencet spasi lalu akan muncul sebagai berikut pilih modGRUBShell.efi dengan tombol panah atas bawah di keyboard lalu pencet enter**
-**![IMG20250926092300](https://github.com/user-attachments/assets/2d560e07-4c6b-452b-9d82-97b89c715908)
-![IMG20250926092250](https://github.com/user-attachments/assets/21c6661d-6c3a-4f72-9c85-1f4a450ecd41)**
+- **ketika sudah muncul seperti ini pencet spasi**
+- **![IMG20250926092300](https://github.com/user-attachments/assets/2d560e07-4c6b-452b-9d82-97b89c715908)
+- ** lalu akan muncul sebagai berikut pilih modGRUBShell.efi dengan tombol panah atas bawah di keyboard lalu pencet enter**
+- **![IMG20250926092250](https://github.com/user-attachments/assets/21c6661d-6c3a-4f72-9c85-1f4a450ecd41)**
 - **jika sudah masuk ke modgrubuefinya ketik value untuk vramnya disini untuk cotoh adalah 2GB silahkan pilih sesuai kebutuhan jadi kurang lebih seperti ini**  
 - **<img width="715" height="307" alt="Screenshot_3" src="https://github.com/user-attachments/assets/0c2e3a7f-938f-4612-b146-8d96d54d088c" />**
 - ** ketikan perintah di modGRUBSHELL.efi
