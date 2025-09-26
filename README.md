@@ -16,10 +16,12 @@
 **![IMG20250926092300](https://github.com/user-attachments/assets/2d560e07-4c6b-452b-9d82-97b89c715908)
 ![IMG20250926092250](https://github.com/user-attachments/assets/21c6661d-6c3a-4f72-9c85-1f4a450ecd41)**
 - **jika sudah masuk ke modgrubuefinya ketik value untuk vramnya disini untuk cotoh adalah 2GB silahkan pilih sesuai kebutuhan jadi kurang lebih seperti ini**  
-- **![IMG20250926092359](https://github.com/user-attachments/assets/5b94a3b5-56a3-4eca-87d4-7da3e7fa8ebd)
+- **<img width="715" height="307" alt="Screenshot_3" src="https://github.com/user-attachments/assets/0c2e3a7f-938f-4612-b146-8d96d54d088c" />**
+- **![IMG20250926092439](https://github.com/user-attachments/assets/f6e7cedf-3a64-419c-95fa-3094ff33cb19)
+![IMG20250926092420](https://github.com/user-attachments/assets/af5a597a-b7d4-4755-bfd0-881d8598d334)
+![IMG20250926092359](https://github.com/user-attachments/assets/d9885954-355a-47f5-943d-5672ae3da5b0)
 
-![IMG20250926092420](https://github.com/user-attachments/assets/cb535801-ff91-4e0d-a6d9-92a1aae27157)
-**<img width="715" height="307" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cffe71a7-fe45-4363-9073-6c11632682e1" />
+
 **jika sudah selesai ketik reboot
 - **![IMG20250926092439](https://github.com/user-attachments/assets/8ca212ba-094e-4ee8-8bd2-20ee93f8c0b9)
 
