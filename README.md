@@ -10,7 +10,7 @@
 - **<img width="483" height="551" alt="Screenshot_1" src="https://github.com/user-attachments/assets/2eda9be3-7e9c-4eff-af61-eefb83a505c9" />**  
 - **download file efi dari link di atas lalu extract ke flashdisk**  
 - **<img width="1138" height="650" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f3e4e5ff-9470-43ec-aace-a49c5126c78d" />**  
-- **Power Management**  
+- **kemudian restart pc dan boot dari flashdisk colorful biasanya menggunakan F11 sebagai boot menu**  
 - **HDMI Audio** (Works but no volume slider use third party apps instead)  
 - **ALC897 All port works**
 ### **Untested Features:**
