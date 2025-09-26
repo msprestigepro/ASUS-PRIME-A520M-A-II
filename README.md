@@ -18,7 +18,7 @@
 - ![IMG20250926092300](https://github.com/user-attachments/assets/2d560e07-4c6b-452b-9d82-97b89c715908)
 - **jika sudah masuk ke ModGRUBShellnya PERHATIKAN VALUE YANG DI TANDAI KARENA PENTING, ketik value untuk vramnya dan varoffsetnya disini untuk contoh adalah 2GB maka valuenya adalah 0x800, silahkan pilih sesuai kebutuhan jadi kurang lebih seperti ini**  
 - **<img width="715" height="307" alt="Screenshot_3" src="https://github.com/user-attachments/assets/0c2e3a7f-938f-4612-b146-8d96d54d088c" />**
-- **ketikan perintah di sesuai value yang di pilih YANG DI UBAH HANYA YANG ADA DI POSISI 0x800 perhatikan cara penulias kapital atau bukan karena berpengaruh, di modGRUBSHELL.efi**
+- **ketikan perintah di sesuai value yang di pilih YANG DI UBAH HANYA YANG ADA DI POSISI 0x800 perhatikan cara penulias kapital atau bukan karena berpengaruh, ketik setup_var 0xC4 0x800 di modGRUBSHELL.efi**
 - ![IMG20250926092420](https://github.com/user-attachments/assets/af5a597a-b7d4-4755-bfd0-881d8598d334)
 - **jika cara diatas tidak berhasil bisa coba yang ini**
 - ![IMG20250926092359](https://github.com/user-attachments/assets/d9885954-355a-47f5-943d-5672ae3da5b0)
